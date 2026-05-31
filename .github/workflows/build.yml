@@ -35,7 +35,7 @@ on:
                 default: false
     push:
         tags:
-            - 'v*'
+            - 'worker*'
         # branches:
         #     - 'main'
 
